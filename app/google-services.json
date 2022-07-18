@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475107399287",
+    "project_id": "venom-shop",
+    "storage_bucket": "venom-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475107399287:android:5f2cd652e8cecc0b77d872",
+        "android_client_info": {
+          "package_name": "com.gilardo.venomshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475107399287-ml6aaqaa1d89r62d49u83ge6mravqbgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtzoswXp5ImA413vleVNd5LrLTLrK9Wi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475107399287-ml6aaqaa1d89r62d49u83ge6mravqbgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
